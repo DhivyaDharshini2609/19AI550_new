@@ -137,9 +137,17 @@ Check the following
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
 ### Output:
+```
+<img width="1912" height="1076" alt="image" src="https://github.com/user-attachments/assets/23a3162c-c18c-4591-bd0b-b96fa634dfd5" />
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7a8912d2-f275-494a-9fda-deeb4573c8cf" />
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/cd847b2f-544e-416a-9af0-3065779729f5" />
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/d471a4f1-f928-4f92-ac0b-a05d5444cd47" />
+<img width="1906" height="1072" alt="image" src="https://github.com/user-attachments/assets/ebc34fc0-91a7-4cde-a8af-e012c0ac43a6" />
 
 
 
+```
 
 
 
